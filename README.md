@@ -2,8 +2,8 @@
 
 **Talk at Django Vienna meetup 2024-06-04**
 
+The talk was facilitated in the form of an interactive discussion.
 These repo is not meant to serve as a stand-alone resource.
-The talk facilitated in the form of an interactive discussion
 accompanied by live coding.
 
 
